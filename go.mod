@@ -1,4 +1,4 @@
-module eddtries/cp-utils
+module github.com/eddtries/cp-utils
 
 go 1.21.3
 
