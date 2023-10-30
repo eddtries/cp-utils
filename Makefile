@@ -1,3 +1,6 @@
+test:
+	go test ./... -v
+
 pre_publish:
 	go mod tidy
 	go test ./...
