@@ -1,0 +1,3 @@
+publish:
+	go mod tidy
+	go test ./...
